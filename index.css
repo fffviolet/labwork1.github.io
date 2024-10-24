@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: "PingFangSC-Regular", "微软雅黑", sans-serif;
+  height: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: -4px;
+  right: 5px;
+
+  color: transparent;
+  text-shadow: 0 0 4px white;
+}
+
+p {
+  position: absolute;
+  margin: 0;
+  top: 35px;
+  right: 5px;
+  color: #aaa;
+}
+
+#gameover {
+  position: absolute;
+  margin: 0;
+  top: 300px;
+  left: 600px;
+  font-size: larger;
+  font-family: "Microsoft YaHei";
+  color: #de0303;
+  font-size: 1.5rem;
+  letter-spacing: -1px;
+}
